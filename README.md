@@ -23,4 +23,6 @@ To run this analysis, you will need Python and the following libraries installed
 - matplotlib
 - seaborn
 
+git clone https://github.com/9346mukesh/zomato-bangalore-analysis.git
+
 You will also need the `zomato.csv` dataset in the same directory as the Jupyter Notebook (`Zomatadataset.ipynb`).
